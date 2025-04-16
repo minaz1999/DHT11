@@ -97,3 +97,4 @@ o	کدهای زیر را در آن وارد کنید:
 
 ![DHT11,LED](https://github.com/user-attachments/assets/e66a83bd-0cb3-42d2-9715-2236472b9b3d)
 [DHT11,LED.pdf](https://github.com/user-attachments/files/19769129/DHT11.LED.pdf)
+فایل ویدیو بزرگ است
